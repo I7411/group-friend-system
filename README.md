@@ -161,9 +161,6 @@ The project does not cover advanced features such as:
 ```text
 .
 ├── README.md
-├── docs/
-│   └── System_Analysis_and_Design_Report.docx
-├── diagrams/
-│   └── UML_Model.mdl
-└── images/
-    └── UI_and_Diagram_Screenshots
+├── Nhom12_HuynhThanhMinhTam_C7.docx
+├── NHOM12.mdl
+
